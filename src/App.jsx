@@ -20,7 +20,7 @@ const App = () => {
       },
     });
 
-    const response = await fetch('https://3.7.55.79/searchQna', {
+    const response = await fetch('https://13.233.153.97/searchQna', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
